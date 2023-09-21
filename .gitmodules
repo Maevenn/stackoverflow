@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/noemi-varga/stackoverflow-tw
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/imohorvath/stackoverflow-tw-frontend
